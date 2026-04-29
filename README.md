@@ -9,7 +9,7 @@ Reproduction package for:
 >
 > Submitted to *Japanese Journal of Digital Humanities* (JJDH), 2026.
 
-This repository contains the **complete reproduction package** — analysis code, input data, intermediate results, final figures, and the paper PDF/DOCX — for the above study, which compares 6 Japanese primary philosophical texts (Aozora Bunko) against 459 philosopher articles in the Stanford Encyclopedia of Philosophy (SEP) using a multilingual sentence-embedding model.
+This repository contains the **reproduction package** — analysis code, input data, intermediate results, and final figures — for the above study, which compares 6 Japanese primary philosophical texts (Aozora Bunko) against 459 philosopher articles in the Stanford Encyclopedia of Philosophy (SEP) using a multilingual sentence-embedding model.
 
 ## Repository structure
 
@@ -35,17 +35,16 @@ aozora-sep/
 │   ├── sep_person_similarity.csv      ← 6 JP works × 458 philosophers (after 1,000-char filter)
 │   ├── sep_person_top50.csv           ← top-50 extracts
 │   └── bootstrap_ci.csv               ← bootstrap confidence intervals (top-5 per work)
-├── figures/                   ← final paper figures (PDF + PNG)
-│   ├── nishida_zen_ranking.{pdf,png}              ← Fig. 1
-│   ├── all_works_top5.{pdf,png}                   ← Fig. 2
-│   ├── nishida_contrast.{pdf,png}                 ← Fig. 3
-│   ├── boxplot_works.{pdf,png}                    ← Fig. 4
-│   ├── heatmap_works_philosophers.{pdf,png}       ← Fig. 5
-│   └── works_clustering.{pdf,png}                 ← Fig. 6
-└── paper/
-    ├── paper.docx                     ← submission DOCX (final)
-    └── paper.pdf                      ← rendered PDF
+└── figures/                   ← final paper figures (PDF + PNG)
+    ├── nishida_zen_ranking.{pdf,png}              ← Fig. 1
+    ├── all_works_top5.{pdf,png}                   ← Fig. 2
+    ├── nishida_contrast.{pdf,png}                 ← Fig. 3
+    ├── boxplot_works.{pdf,png}                    ← Fig. 4
+    ├── heatmap_works_philosophers.{pdf,png}       ← Fig. 5
+    └── works_clustering.{pdf,png}                 ← Fig. 6
 ```
+
+> **Note**: The paper PDF/DOCX itself is not included in this repository. Please refer to the published version in *Japanese Journal of Digital Humanities*.
 
 ## Quick reproduction
 
