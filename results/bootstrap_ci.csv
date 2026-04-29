@@ -1,0 +1,12 @@
+a,b,similarity,ci_lo,ci_hi
+Nishida,husserl,0.7734,0.7528,0.7907
+Nishida,kant,0.8073,0.7869,0.8223
+Nishida,dewey,0.7429,0.7239,0.7581
+Nishida,heidegger,0.7039,0.6805,0.7221
+Nishida,merleau-ponty,0.7512,0.7177,0.7775
+Nishida,confucius,0.5578,0.532,0.5767
+Kuki,merleau-ponty,0.711,0.6821,0.7304
+Kuki,husserl,0.6871,0.66,0.7071
+Miki,husserl,0.7789,0.7595,0.7957
+Miki,heidegger,0.7112,0.6901,0.728
+Miki,levinas,0.7209,0.7038,0.7361

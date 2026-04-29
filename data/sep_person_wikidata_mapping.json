@@ -1,0 +1,1838 @@
+{
+  "abelard": {
+    "label": "Peter Abelard",
+    "qid": "Q4295"
+  },
+  "abner-burgos": {
+    "label": "Abner of Burgos",
+    "qid": "Q322560"
+  },
+  "abrabanel": {
+    "label": "Judah Leon Abravanel",
+    "qid": "Q467062"
+  },
+  "abraham-daud": {
+    "label": "Abraham ibn Daud",
+    "qid": "Q330821"
+  },
+  "abu-bakr-al-razi": {
+    "label": "Abu Bakr al-Razi",
+    "qid": "Q169234"
+  },
+  "addams-jane": {
+    "label": "Jane Addams",
+    "qid": "Q180989"
+  },
+  "adorno": {
+    "label": "Theodor W. Adorno",
+    "qid": "Q152388"
+  },
+  "agrippa-nettesheim": {
+    "label": "Heinrich Cornelius Agrippa",
+    "qid": "Q76568"
+  },
+  "al-baghdadi": {
+    "label": "Abd al-Latif al-Baghdadi",
+    "qid": "Q307277"
+  },
+  "al-din-al-razi": {
+    "label": "Fakhr al-Din al-Razi",
+    "qid": "Q333703"
+  },
+  "al-farabi": {
+    "label": "Farabi",
+    "qid": "Q160460"
+  },
+  "al-ghazali": {
+    "label": "Al-Ghazali",
+    "qid": "Q9546"
+  },
+  "al-kindi": {
+    "label": "Al-Kindi",
+    "qid": "Q179759"
+  },
+  "alain-locke": {
+    "label": "Alain LeRoy Locke",
+    "qid": "Q2120917"
+  },
+  "albalag": {
+    "label": "Isaac Albalag",
+    "qid": "Q1673485"
+  },
+  "albert-great": {
+    "label": "Albertus Magnus",
+    "qid": "Q60059"
+  },
+  "albert-saxony": {
+    "label": "Albertus de Saxonia",
+    "qid": "Q61044"
+  },
+  "albo-joseph": {
+    "label": "Joseph Albo",
+    "qid": "Q559622"
+  },
+  "alcmaeon": {
+    "label": "Alcmaeon of Croton",
+    "qid": "Q188332"
+  },
+  "alexander": {
+    "label": "Samuel Alexander",
+    "qid": "Q379900"
+  },
+  "alexander-aphrodisias": {
+    "label": "Alexandros of Aphrodisias",
+    "qid": "Q317146"
+  },
+  "alexander-crummell": {
+    "label": "Alexander Crummell",
+    "qid": "Q1766103"
+  },
+  "alexander-humboldt": {
+    "label": "Alexander von Humboldt",
+    "qid": "Q6694"
+  },
+  "althusser": {
+    "label": "Louis Althusser",
+    "qid": "Q184169"
+  },
+  "alyngton": {
+    "label": "Robert Alyngton",
+    "qid": "Q7341485"
+  },
+  "ammonius": {
+    "label": "Ammonius Hermiae",
+    "qid": "Q123147"
+  },
+  "anaxagoras": {
+    "label": "Anaxagoras",
+    "qid": "Q83041"
+  },
+  "anderson-john": {
+    "label": "John Anderson",
+    "qid": "Q3296918"
+  },
+  "anna-julia-cooper": {
+    "label": "Anna J. Cooper",
+    "qid": "Q977118"
+  },
+  "anscombe": {
+    "label": "G. E. M. Anscombe",
+    "qid": "Q229646"
+  },
+  "anselm": {
+    "label": "Anselm of Canterbury",
+    "qid": "Q43939"
+  },
+  "antiochus-ascalon": {
+    "label": "Antiochus of Ascalon",
+    "qid": "Q320042"
+  },
+  "antonio-rosmini": {
+    "label": "Antonio Rosmini",
+    "qid": "Q337311"
+  },
+  "aquinas": {
+    "label": "Thomas Aquinas",
+    "qid": "Q9438"
+  },
+  "arcesilaus": {
+    "label": "Arcesilaus",
+    "qid": "Q73527"
+  },
+  "archytas": {
+    "label": "Archytas",
+    "qid": "Q202001"
+  },
+  "arendt": {
+    "label": "Hannah Arendt",
+    "qid": "Q60025"
+  },
+  "aristotle": {
+    "label": "Aristotle",
+    "qid": "Q868"
+  },
+  "arnauld": {
+    "label": "Antoine Arnauld",
+    "qid": "Q353887"
+  },
+  "astell": {
+    "label": "Mary Astell",
+    "qid": "Q2359434"
+  },
+  "august-rehberg": {
+    "label": "August Wilhelm Rehberg",
+    "qid": "Q649972"
+  },
+  "augustine": {
+    "label": "Augustine of Hippo",
+    "qid": "Q8018"
+  },
+  "auriol": {
+    "label": "Petrus Aureolus",
+    "qid": "Q1383191"
+  },
+  "austin-jl": {
+    "label": "John Langshaw Austin",
+    "qid": "Q272615"
+  },
+  "austin-john": {
+    "label": "John Austin",
+    "qid": "Q60837"
+  },
+  "autrecourt": {
+    "label": "Nicholas of Autrecourt",
+    "qid": "Q331322"
+  },
+  "ayer": {
+    "label": "A. J. Ayer",
+    "qid": "Q243757"
+  },
+  "ayn-rand": {
+    "label": "Ayn Rand",
+    "qid": "Q132524"
+  },
+  "baudrillard": {
+    "label": "Jean Baudrillard",
+    "qid": "Q182847"
+  },
+  "bauer": {
+    "label": "Bruno Bauer",
+    "qid": "Q76878"
+  },
+  "bayle": {
+    "label": "Pierre Bayle",
+    "qid": "Q214816"
+  },
+  "beauvoir": {
+    "label": "Simone de Beauvoir",
+    "qid": "Q7197"
+  },
+  "benjamin": {
+    "label": "Walter Benjamin",
+    "qid": "Q61078"
+  },
+  "bentham": {
+    "label": "Jeremy Bentham Rollweiser",
+    "qid": "Q60887"
+  },
+  "bergson": {
+    "label": "Henri Bergson",
+    "qid": "Q42156"
+  },
+  "berkeley": {
+    "label": "George Berkeley",
+    "qid": "Q82049"
+  },
+  "berlin": {
+    "label": "Isaiah Berlin",
+    "qid": "Q205162"
+  },
+  "bessarion": {
+    "label": "Basilios Bessarion",
+    "qid": "Q299446"
+  },
+  "bloch": {
+    "label": "Ernst Bloch",
+    "qid": "Q57240"
+  },
+  "bodin": {
+    "label": "Jean Bodin",
+    "qid": "Q190944"
+  },
+  "boethius": {
+    "label": "Boethius",
+    "qid": "Q102851"
+  },
+  "boethius-dacia": {
+    "label": "Boetius of Dacia",
+    "qid": "Q428694"
+  },
+  "bolzano": {
+    "label": "Bernard Bolzano",
+    "qid": "Q184735"
+  },
+  "bonaventure": {
+    "label": "Bonaventure",
+    "qid": "Q43746"
+  },
+  "boole": {
+    "label": "Q134661",
+    "qid": "Q134661"
+  },
+  "bosanquet": {
+    "label": "Bernard Bosanquet",
+    "qid": "Q822329"
+  },
+  "boyle": {
+    "label": "Robert Boyle",
+    "qid": "Q43393"
+  },
+  "bradley": {
+    "label": "F. H. Bradley",
+    "qid": "Q350236"
+  },
+  "brentano": {
+    "label": "Franz Brentano",
+    "qid": "Q57196"
+  },
+  "broad": {
+    "label": "C. D. Broad",
+    "qid": "Q1022453"
+  },
+  "brouwer": {
+    "label": "Luitzen Egbertus Jan Brouwer",
+    "qid": "Q155887"
+  },
+  "bruno": {
+    "label": "Giordano Bruno",
+    "qid": "Q36330"
+  },
+  "buber": {
+    "label": "Martin Buber",
+    "qid": "Q84423"
+  },
+  "buddha": {
+    "label": "The Buddha",
+    "qid": "Q9441"
+  },
+  "buridan": {
+    "label": "Jean Buridan",
+    "qid": "Q275500"
+  },
+  "burke": {
+    "label": "Edmund Burke",
+    "qid": "Q165792"
+  },
+  "burley": {
+    "label": "Walter Burley",
+    "qid": "Q1862572"
+  },
+  "campanella": {
+    "label": "Tommaso Campanella",
+    "qid": "Q191850"
+  },
+  "camus": {
+    "label": "Albert Camus",
+    "qid": "Q34670"
+  },
+  "cardano": {
+    "label": "Gerolamo Cardano",
+    "qid": "Q184530"
+  },
+  "carnap": {
+    "label": "Rudolf Carnap",
+    "qid": "Q76519"
+  },
+  "carneades": {
+    "label": "Carneades",
+    "qid": "Q284994"
+  },
+  "cassirer": {
+    "label": "Ernst Cassirer",
+    "qid": "Q57188"
+  },
+  "catharine-macaulay": {
+    "label": "Catharine Macaulay",
+    "qid": "Q538767"
+  },
+  "chisholm": {
+    "label": "Roderick Chisholm",
+    "qid": "Q877276"
+  },
+  "church": {
+    "label": "Alonzo Church",
+    "qid": "Q92741"
+  },
+  "cicero": {
+    "label": "Cicero",
+    "qid": "Q1541"
+  },
+  "clarke": {
+    "label": "Samuel Clarke",
+    "qid": "Q381073"
+  },
+  "cockburn": {
+    "label": "Catharine Trotter",
+    "qid": "Q1091103"
+  },
+  "cohen": {
+    "label": "Hermann Cohen",
+    "qid": "Q76709"
+  },
+  "collingwood": {
+    "label": "R. G. Collingwood",
+    "qid": "Q317075"
+  },
+  "collins": {
+    "label": "Anthony Collins",
+    "qid": "Q573040"
+  },
+  "comte": {
+    "label": "Auguste Comte",
+    "qid": "Q12718"
+  },
+  "condillac": {
+    "label": "Étienne Bonnot de Condillac",
+    "qid": "Q272119"
+  },
+  "confucius": {
+    "label": "Confucius",
+    "qid": "Q4604"
+  },
+  "consequence-medieval": {
+    "label": "medieval theories of consequence",
+    "qid": "Q26213407"
+  },
+  "conway": {
+    "label": "Anne Conway",
+    "qid": "Q260404"
+  },
+  "copernicus": {
+    "label": "Nicolaus Copernicus",
+    "qid": "Q619"
+  },
+  "cordemoy": {
+    "label": "Géraud de Cordemoy",
+    "qid": "Q1370379"
+  },
+  "crathorn": {
+    "label": "William Crathorn",
+    "qid": "Q4355955"
+  },
+  "crescas": {
+    "label": "Hasdai Crescas",
+    "qid": "Q528415"
+  },
+  "cudworth": {
+    "label": "Ralph Cudworth",
+    "qid": "Q528261"
+  },
+  "cusanus": {
+    "label": "Nicholas of Cusa",
+    "qid": "Q154751"
+  },
+  "dante": {
+    "label": "Q1067",
+    "qid": "Q1067"
+  },
+  "david": {
+    "label": "David",
+    "qid": "Q3017342"
+  },
+  "david-lewis": {
+    "label": "David Lewis",
+    "qid": "Q384522"
+  },
+  "davidson": {
+    "label": "Donald Davidson",
+    "qid": "Q311772"
+  },
+  "deleuze": {
+    "label": "Gilles Deleuze",
+    "qid": "Q184226"
+  },
+  "della-porta": {
+    "label": "Giambattista della Porta",
+    "qid": "Q334154"
+  },
+  "delmedigo": {
+    "label": "Elia del Medigo",
+    "qid": "Q463405"
+  },
+  "democritus": {
+    "label": "Democritus",
+    "qid": "Q41980"
+  },
+  "derrida": {
+    "label": "Jacques Derrida",
+    "qid": "Q130631"
+  },
+  "descartes": {
+    "label": "René Descartes",
+    "qid": "Q9191"
+  },
+  "desgabets": {
+    "label": "Robert Desgabets",
+    "qid": "Q3434946"
+  },
+  "dewey": {
+    "label": "John Dewey",
+    "qid": "Q131805"
+  },
+  "dharmakiirti": {
+    "label": "Dharmakirti",
+    "qid": "Q457990"
+  },
+  "diderot": {
+    "label": "Denis Diderot",
+    "qid": "Q448"
+  },
+  "dietrich-freiberg": {
+    "label": "Theodoric of Freiberg",
+    "qid": "Q1224163"
+  },
+  "dilthey": {
+    "label": "Wilhelm Dilthey",
+    "qid": "Q60080"
+  },
+  "diodorus-cronus": {
+    "label": "Diodorus Cronus",
+    "qid": "Q715478"
+  },
+  "du-bos": {
+    "label": "Jean-Baptiste Dubos",
+    "qid": "Q432585"
+  },
+  "dubois": {
+    "label": "W. E. B. Du Bois",
+    "qid": "Q158060"
+  },
+  "duhem": {
+    "label": "Pierre Duhem",
+    "qid": "Q314172"
+  },
+  "duns-scotus": {
+    "label": "Duns Scotus",
+    "qid": "Q190089"
+  },
+  "edwards": {
+    "label": "Jonathan Edwards",
+    "qid": "Q313073"
+  },
+  "ehrenfels": {
+    "label": "Christian von Ehrenfels",
+    "qid": "Q78603"
+  },
+  "elias": {
+    "label": "Elias",
+    "qid": "Q974885"
+  },
+  "elisabeth-bohemia": {
+    "label": "Elisabeth of the Palatinate",
+    "qid": "Q61389"
+  },
+  "emerson": {
+    "label": "Ralph Waldo Emerson",
+    "qid": "Q48226"
+  },
+  "emilie-du-chatelet": {
+    "label": "Émilie du Châtelet",
+    "qid": "Q7286"
+  },
+  "emily-elizabeth-constance-jones": {
+    "label": "Emily Elizabeth Constance Jones",
+    "qid": "Q2369186"
+  },
+  "empedocles": {
+    "label": "Empedocles",
+    "qid": "Q83375"
+  },
+  "epictetus": {
+    "label": "Epictetus",
+    "qid": "Q183144"
+  },
+  "epicurus": {
+    "label": "Epicurus",
+    "qid": "Q43216"
+  },
+  "erasmus": {
+    "label": "Erasmus",
+    "qid": "Q43499"
+  },
+  "erfurt": {
+    "label": "Thomas of Erfurt",
+    "qid": "Q123608"
+  },
+  "ernst-mach": {
+    "label": "Ernst Mach",
+    "qid": "Q93996"
+  },
+  "falaquera": {
+    "label": "Shem-Tov ibn Falaquera",
+    "qid": "Q1383938"
+  },
+  "fechner": {
+    "label": "Gustav Fechner",
+    "qid": "Q76881"
+  },
+  "feigl": {
+    "label": "Herbert Feigl",
+    "qid": "Q93678"
+  },
+  "feyerabend": {
+    "label": "Paul Feyerabend",
+    "qid": "Q78497"
+  },
+  "ficino": {
+    "label": "Marsilio Ficino",
+    "qid": "Q192374"
+  },
+  "findlay": {
+    "label": "John Niemeyer Findlay",
+    "qid": "Q1447724"
+  },
+  "fitzralph": {
+    "label": "Richard FitzRalph",
+    "qid": "Q7325689"
+  },
+  "fleck": {
+    "label": "Ludwik Fleck",
+    "qid": "Q523087"
+  },
+  "foucault": {
+    "label": "Michel Foucault",
+    "qid": "Q44272"
+  },
+  "francis-bacon": {
+    "label": "Francis Bacon",
+    "qid": "Q37388"
+  },
+  "francis-marchia": {
+    "label": "Francis of Marchia",
+    "qid": "Q5482931"
+  },
+  "francisco-sanches": {
+    "label": "Francisco Sanches",
+    "qid": "Q973196"
+  },
+  "francois-barre": {
+    "label": "François Poullain de la Barre",
+    "qid": "Q1388233"
+  },
+  "frantz-fanon": {
+    "label": "Frantz Fanon",
+    "qid": "Q193670"
+  },
+  "frederick-douglass": {
+    "label": "Frederick Douglass",
+    "qid": "Q215562"
+  },
+  "frege": {
+    "label": "Gottlob Frege",
+    "qid": "Q60028"
+  },
+  "friedrich-hayek": {
+    "label": "Friedrich Hayek",
+    "qid": "Q1325"
+  },
+  "friedrich-jacobi": {
+    "label": "Friedrich Heinrich Jacobi",
+    "qid": "Q168004"
+  },
+  "friedrich-lange": {
+    "label": "Friedrich Albert Lange",
+    "qid": "Q61674"
+  },
+  "fuller-margaret": {
+    "label": "Margaret Fuller",
+    "qid": "Q257953"
+  },
+  "gadamer": {
+    "label": "Hans-Georg Gadamer",
+    "qid": "Q76356"
+  },
+  "galen": {
+    "label": "Galen",
+    "qid": "Q8778"
+  },
+  "galileo": {
+    "label": "Galileo Galilei",
+    "qid": "Q307"
+  },
+  "gangesa": {
+    "label": "Gangesha Upadhyaya",
+    "qid": "Q3635187"
+  },
+  "gassendi": {
+    "label": "Pierre Gassendi",
+    "qid": "Q192315"
+  },
+  "gasset": {
+    "label": "José Ortega y Gasset",
+    "qid": "Q153020"
+  },
+  "gersonides": {
+    "label": "Gersonides",
+    "qid": "Q353633"
+  },
+  "giles": {
+    "label": "Giles of Rome",
+    "qid": "Q380647"
+  },
+  "godfrey": {
+    "label": "Godfrey of Fontaines",
+    "qid": "Q332288"
+  },
+  "godwin": {
+    "label": "William Godwin",
+    "qid": "Q188569"
+  },
+  "goedel": {
+    "label": "Kurt Gödel",
+    "qid": "Q41390"
+  },
+  "gomez-pereira": {
+    "label": "Gómez Pereira",
+    "qid": "Q279030"
+  },
+  "goodman": {
+    "label": "Nelson Goodman",
+    "qid": "Q318048"
+  },
+  "gorampa": {
+    "label": "Gorampa",
+    "qid": "Q1537816"
+  },
+  "gramsci": {
+    "label": "Antonio Gramsci",
+    "qid": "Q83003"
+  },
+  "green": {
+    "label": "Thomas Hill Green",
+    "qid": "Q369621"
+  },
+  "gregory-rimini": {
+    "label": "Gregory of Rimini",
+    "qid": "Q540799"
+  },
+  "grice": {
+    "label": "Paul Grice",
+    "qid": "Q311776"
+  },
+  "grosseteste": {
+    "label": "Robert Grosseteste",
+    "qid": "Q256541"
+  },
+  "grotius": {
+    "label": "Hugo Grotius",
+    "qid": "Q154959"
+  },
+  "habermas": {
+    "label": "Jürgen Habermas",
+    "qid": "Q76357"
+  },
+  "halevi": {
+    "label": "Judah Halevi",
+    "qid": "Q299200"
+  },
+  "hamann": {
+    "label": "Johann Georg Hamann",
+    "qid": "Q76499"
+  },
+  "hare": {
+    "label": "R. M. Hare",
+    "qid": "Q471923"
+  },
+  "harriet-mill": {
+    "label": "Harriet Taylor Mill",
+    "qid": "Q240782"
+  },
+  "hartley": {
+    "label": "David Hartley",
+    "qid": "Q379902"
+  },
+  "hartshorne": {
+    "label": "Charles Hartshorne",
+    "qid": "Q1064777"
+  },
+  "hegel": {
+    "label": "Georg Wilhelm Friedrich Hegel",
+    "qid": "Q9235"
+  },
+  "heidegger": {
+    "label": "Martin Heidegger",
+    "qid": "Q48301"
+  },
+  "heinrich-rickert": {
+    "label": "Heinrich Rickert",
+    "qid": "Q77012"
+  },
+  "hempel": {
+    "label": "Carl Gustav Hempel",
+    "qid": "Q61885"
+  },
+  "henricus-regius": {
+    "label": "Henricus Regius",
+    "qid": "Q743918"
+  },
+  "henry-ghent": {
+    "label": "Henry of Ghent",
+    "qid": "Q707637"
+  },
+  "henry-more": {
+    "label": "Q528802",
+    "qid": "Q528802"
+  },
+  "heraclitus": {
+    "label": "Heraclitus",
+    "qid": "Q41155"
+  },
+  "herder": {
+    "label": "Johann Gottfried Herder",
+    "qid": "Q155547"
+  },
+  "hermann-helmholtz": {
+    "label": "Hermann von Helmholtz",
+    "qid": "Q60024"
+  },
+  "hermann-lotze": {
+    "label": "Hermann Lotze",
+    "qid": "Q57684"
+  },
+  "heytesbury": {
+    "label": "William of Heytesbury",
+    "qid": "Q1856133"
+  },
+  "hobbes": {
+    "label": "Thomas Hobbes",
+    "qid": "Q37621"
+  },
+  "holbach": {
+    "label": "Baron d'Holbach",
+    "qid": "Q7104"
+  },
+  "holkot": {
+    "label": "Robert Holkot",
+    "qid": "Q7345564"
+  },
+  "horkheimer": {
+    "label": "Max Horkheimer",
+    "qid": "Q76826"
+  },
+  "hume": {
+    "label": "David Hume",
+    "qid": "Q37160"
+  },
+  "husserl": {
+    "label": "Edmund Husserl",
+    "qid": "Q58586"
+  },
+  "hutcheson": {
+    "label": "Francis Hutcheson",
+    "qid": "Q316367"
+  },
+  "iamblichus": {
+    "label": "Iamblichus",
+    "qid": "Q310916"
+  },
+  "ibn-arabi": {
+    "label": "Ibn Arabi",
+    "qid": "Q46420"
+  },
+  "ibn-bajja": {
+    "label": "Avempace",
+    "qid": "Q11362"
+  },
+  "ibn-ezra": {
+    "label": "Abraham ibn Ezra",
+    "qid": "Q270670"
+  },
+  "ibn-gabirol": {
+    "label": "Solomon ibn Gabirol",
+    "qid": "Q239355"
+  },
+  "ibn-kammuna": {
+    "label": "Ibn Kammuna",
+    "qid": "Q639821"
+  },
+  "ibn-rushd": {
+    "label": "Averroes",
+    "qid": "Q39837"
+  },
+  "ibn-sina": {
+    "label": "Avicenna",
+    "qid": "Q8011"
+  },
+  "ingarden": {
+    "label": "Roman Ingarden",
+    "qid": "Q355355"
+  },
+  "israeli": {
+    "label": "Isaac ben Solomon al-Israeli",
+    "qid": "Q536837"
+  },
+  "james": {
+    "label": "William James",
+    "qid": "Q125249"
+  },
+  "james-mill": {
+    "label": "James Mill",
+    "qid": "Q271666"
+  },
+  "james-viterbo": {
+    "label": "James of Viterbo",
+    "qid": "Q352625"
+  },
+  "james-ward": {
+    "label": "James Ward",
+    "qid": "Q6145127"
+  },
+  "jaspers": {
+    "label": "Karl Jaspers",
+    "qid": "Q76509"
+  },
+  "jayaraasi": {
+    "label": "Jayarāśi Bhaṭṭa",
+    "qid": "Q3497372"
+  },
+  "jefferson": {
+    "label": "Thomas Jefferson",
+    "qid": "Q11812"
+  },
+  "joane-petrizi": {
+    "label": "Ioane Petritsi",
+    "qid": "Q2028047"
+  },
+  "johann-fichte": {
+    "label": "Johann Gottlieb Fichte",
+    "qid": "Q102585"
+  },
+  "johann-herbart": {
+    "label": "Johann Friedrich Herbart",
+    "qid": "Q76685"
+  },
+  "johann-sturm": {
+    "label": "Johann Sturm",
+    "qid": "Q75642"
+  },
+  "john-norris": {
+    "label": "John Norris",
+    "qid": "Q3182195"
+  },
+  "john-salisbury": {
+    "label": "John of Salisbury",
+    "qid": "Q264028"
+  },
+  "justus-lipsius": {
+    "label": "Justus Lipsius",
+    "qid": "Q315871"
+  },
+  "kant": {
+    "label": "Immanuel Kant",
+    "qid": "Q9312"
+  },
+  "karl-reinhold": {
+    "label": "Karl Leonhard Reinhold",
+    "qid": "Q112258"
+  },
+  "kaspi-joseph": {
+    "label": "Joseph Caspi",
+    "qid": "Q959392"
+  },
+  "kepler": {
+    "label": "Johannes Kepler",
+    "qid": "Q8963"
+  },
+  "kierkegaard": {
+    "label": "Søren Kierkegaard",
+    "qid": "Q6512"
+  },
+  "kilvington": {
+    "label": "Richard Kilvington",
+    "qid": "Q468950"
+  },
+  "kukai": {
+    "label": "Kūkai",
+    "qid": "Q222227"
+  },
+  "kumaarila": {
+    "label": "Kumārila Bhaṭṭa",
+    "qid": "Q774847"
+  },
+  "la-forge": {
+    "label": "Louis de La Forge",
+    "qid": "Q2617364"
+  },
+  "lacan": {
+    "label": "Jacques Lacan",
+    "qid": "Q169906"
+  },
+  "lady-masham": {
+    "label": "Damaris Cudworth Masham",
+    "qid": "Q2332520"
+  },
+  "lakatos": {
+    "label": "Imre Lakatos",
+    "qid": "Q296249"
+  },
+  "lambert-auxerre": {
+    "label": "Lambert of Auxerre",
+    "qid": "Q610309"
+  },
+  "laozi": {
+    "label": "Laozi",
+    "qid": "Q9333"
+  },
+  "lefevre-etaples": {
+    "label": "Jacques Lefèvre d'Étaples",
+    "qid": "Q356513"
+  },
+  "legrand": {
+    "label": "Antoine Le Grand",
+    "qid": "Q327782"
+  },
+  "leibniz": {
+    "label": "Gottfried Wilhelm Leibniz",
+    "qid": "Q9047"
+  },
+  "leibowitz-yeshayahu": {
+    "label": "Yeshayahu Leibowitz",
+    "qid": "Q215927"
+  },
+  "lesniewski": {
+    "label": "Stanisław Leśniewski",
+    "qid": "Q528493"
+  },
+  "leucippus": {
+    "label": "Leucippus",
+    "qid": "Q165589"
+  },
+  "levinas": {
+    "label": "Emmanuel Levinas",
+    "qid": "Q153034"
+  },
+  "lewis-ci": {
+    "label": "Clarence Irving Lewis",
+    "qid": "Q725642"
+  },
+  "llull": {
+    "label": "Ramon Llull",
+    "qid": "Q193660"
+  },
+  "locke": {
+    "label": "John Locke",
+    "qid": "Q9353"
+  },
+  "lorenzo-valla": {
+    "label": "Lorenzo Valla",
+    "qid": "Q214115"
+  },
+  "lucretius": {
+    "label": "Lucretius",
+    "qid": "Q47154"
+  },
+  "lucrezia-marinella": {
+    "label": "Lucrezia Marinella",
+    "qid": "Q1873744"
+  },
+  "ludwig-feuerbach": {
+    "label": "Ludwig Feuerbach",
+    "qid": "Q76422"
+  },
+  "lukacs": {
+    "label": "Georg Lukács",
+    "qid": "Q151523"
+  },
+  "lukasiewicz": {
+    "label": "Jan Łukasiewicz",
+    "qid": "Q313454"
+  },
+  "luther": {
+    "label": "Martin Luther",
+    "qid": "Q9554"
+  },
+  "luxemburg": {
+    "label": "Rosa Luxemburg",
+    "qid": "Q7231"
+  },
+  "lyotard": {
+    "label": "Jean-François Lyotard",
+    "qid": "Q193257"
+  },
+  "machiavelli": {
+    "label": "Niccolò Machiavelli",
+    "qid": "Q1399"
+  },
+  "madeleine-scudery": {
+    "label": "Madeleine de Scudéry",
+    "qid": "Q237095"
+  },
+  "maimon": {
+    "label": "Salomon Maimon",
+    "qid": "Q465763"
+  },
+  "maimonides": {
+    "label": "Moshe ben Maimon",
+    "qid": "Q127398"
+  },
+  "maimonides-islamic": {
+    "label": "Moshe ben Maimon",
+    "qid": "Q127398"
+  },
+  "malebranche": {
+    "label": "Nicolas Malebranche",
+    "qid": "Q309818"
+  },
+  "mally": {
+    "label": "Ernst Mally",
+    "qid": "Q90003"
+  },
+  "marcel": {
+    "label": "Gabriel Marcel",
+    "qid": "Q154145"
+  },
+  "marcus-aurelius": {
+    "label": "Marcus Aurelius",
+    "qid": "Q1430"
+  },
+  "marcuse": {
+    "label": "Herbert Marcuse",
+    "qid": "Q60030"
+  },
+  "margaret-cavendish": {
+    "label": "Margaret Cavendish, Duchess of Newcastle-upon-Tyne",
+    "qid": "Q242640"
+  },
+  "margaret-fell": {
+    "label": "Margaret Fell",
+    "qid": "Q524860"
+  },
+  "maritain": {
+    "label": "Jacques Maritain",
+    "qid": "Q45723"
+  },
+  "marsilius-inghen": {
+    "label": "Marsilius of Inghen",
+    "qid": "Q704472"
+  },
+  "marty": {
+    "label": "Anton Marty",
+    "qid": "Q123379"
+  },
+  "marx": {
+    "label": "Karl Marx",
+    "qid": "Q9061"
+  },
+  "mary-shepherd": {
+    "label": "Mary Shepherd",
+    "qid": "Q6470434"
+  },
+  "max-stirner": {
+    "label": "Max Stirner",
+    "qid": "Q76725"
+  },
+  "mctaggart": {
+    "label": "Q463553",
+    "qid": "Q463553"
+  },
+  "mead": {
+    "label": "George Herbert Mead",
+    "qid": "Q295978"
+  },
+  "meinong": {
+    "label": "Alexius Meinong",
+    "qid": "Q78600"
+  },
+  "meister-eckhart": {
+    "label": "Meister Eckhart",
+    "qid": "Q76548"
+  },
+  "mencius": {
+    "label": "Mencius",
+    "qid": "Q188903"
+  },
+  "mendelssohn": {
+    "label": "Moses Mendelssohn",
+    "qid": "Q76997"
+  },
+  "merleau-ponty": {
+    "label": "Maurice Merleau-Ponty",
+    "qid": "Q212639"
+  },
+  "mersenne": {
+    "label": "Marin Mersenne",
+    "qid": "Q188663"
+  },
+  "michel-henry": {
+    "label": "Michel Henry",
+    "qid": "Q610255"
+  },
+  "mill": {
+    "label": "John Stuart Mill",
+    "qid": "Q50020"
+  },
+  "montaigne": {
+    "label": "Michel de Montaigne",
+    "qid": "Q41568"
+  },
+  "montesquieu": {
+    "label": "Montesquieu",
+    "qid": "Q15975"
+  },
+  "moore": {
+    "label": "G. E. Moore",
+    "qid": "Q295386"
+  },
+  "mulla-sadra": {
+    "label": "Mulla Sadra",
+    "qid": "Q2010955"
+  },
+  "murdoch": {
+    "label": "Iris Murdoch",
+    "qid": "Q217495"
+  },
+  "nagarjuna": {
+    "label": "Nagarjuna",
+    "qid": "Q171195"
+  },
+  "natorp": {
+    "label": "Paul Natorp",
+    "qid": "Q76504"
+  },
+  "neurath": {
+    "label": "Otto Neurath",
+    "qid": "Q78570"
+  },
+  "newton": {
+    "label": "Isaac Newton",
+    "qid": "Q935"
+  },
+  "nicolai-hartmann": {
+    "label": "Nicolai Hartmann",
+    "qid": "Q76501"
+  },
+  "nicole-oresme": {
+    "label": "Nicole Oresme",
+    "qid": "Q310777"
+  },
+  "nietzsche": {
+    "label": "Friedrich Nietzsche",
+    "qid": "Q9358"
+  },
+  "nishida-kitaro": {
+    "label": "Kitarō Nishida",
+    "qid": "Q45125"
+  },
+  "novalis": {
+    "label": "Novalis",
+    "qid": "Q60684"
+  },
+  "nozick-political": {
+    "label": "Robert Nozick",
+    "qid": "Q205927"
+  },
+  "numenius": {
+    "label": "Numenius of Apamea",
+    "qid": "Q707344"
+  },
+  "oakeshott": {
+    "label": "Michael Oakeshott",
+    "qid": "Q959541"
+  },
+  "ockham": {
+    "label": "William of Ockham",
+    "qid": "Q43936"
+  },
+  "olivi": {
+    "label": "Peter Olivi",
+    "qid": "Q326307"
+  },
+  "olympiodorus": {
+    "label": "Olympiodorus the Younger",
+    "qid": "Q974775"
+  },
+  "origen": {
+    "label": "Origen",
+    "qid": "Q170472"
+  },
+  "paine": {
+    "label": "Thomas Paine",
+    "qid": "Q126462"
+  },
+  "parmenides": {
+    "label": "Parmenides",
+    "qid": "Q125551"
+  },
+  "pascal": {
+    "label": "Blaise Pascal",
+    "qid": "Q1290"
+  },
+  "patrizi": {
+    "label": "Francesco Patrizi",
+    "qid": "Q435300"
+  },
+  "paul-venice": {
+    "label": "Paul of Venice",
+    "qid": "Q2064265"
+  },
+  "peirce": {
+    "label": "Charles Sanders Peirce",
+    "qid": "Q187520"
+  },
+  "peirce-benjamin": {
+    "label": "Benjamin Peirce",
+    "qid": "Q467611"
+  },
+  "penbygull": {
+    "label": "William Penbygull",
+    "qid": "Q2580220"
+  },
+  "peter-damian": {
+    "label": "Peter Damian",
+    "qid": "Q258369"
+  },
+  "peter-spain": {
+    "label": "Peter of Spain",
+    "qid": "Q320546"
+  },
+  "philip-chancellor": {
+    "label": "Philip the Chancellor",
+    "qid": "Q768555"
+  },
+  "philippa-foot": {
+    "label": "Philippa Foot",
+    "qid": "Q297493"
+  },
+  "philo": {
+    "label": "Philo of Alexandria",
+    "qid": "Q189597"
+  },
+  "philo-larissa": {
+    "label": "Philo of Larissa",
+    "qid": "Q365110"
+  },
+  "philodemus": {
+    "label": "Philodemus",
+    "qid": "Q451550"
+  },
+  "philolaus": {
+    "label": "Philolaus",
+    "qid": "Q212338"
+  },
+  "philoponus": {
+    "label": "John Philoponus",
+    "qid": "Q317632"
+  },
+  "pico-della-mirandola": {
+    "label": "Giovanni Pico della Mirandola",
+    "qid": "Q182128"
+  },
+  "plato": {
+    "label": "Plato",
+    "qid": "Q859"
+  },
+  "plotinus": {
+    "label": "Plotinus",
+    "qid": "Q134189"
+  },
+  "plutarch": {
+    "label": "Plutarch",
+    "qid": "Q41523"
+  },
+  "poincare": {
+    "label": "Henri Poincaré",
+    "qid": "Q81082"
+  },
+  "polqar": {
+    "label": "Isaac ben Joseph ibn Pulgar",
+    "qid": "Q461640"
+  },
+  "pomponazzi": {
+    "label": "Pietro Pomponazzi",
+    "qid": "Q318787"
+  },
+  "popper": {
+    "label": "Karl Popper",
+    "qid": "Q81244"
+  },
+  "porphyry": {
+    "label": "Porphyry",
+    "qid": "Q203445"
+  },
+  "prichard": {
+    "label": "Harold Arthur Prichard",
+    "qid": "Q3498726"
+  },
+  "prior": {
+    "label": "Arthur Prior",
+    "qid": "Q250020"
+  },
+  "proclus": {
+    "label": "Proclus",
+    "qid": "Q271809"
+  },
+  "protagoras": {
+    "label": "Protagoras",
+    "qid": "Q169243"
+  },
+  "pseudo-dionysius-areopagite": {
+    "label": "Pseudo-Dionysius the Areopagite",
+    "qid": "Q312816"
+  },
+  "pyrrho": {
+    "label": "Pyrrho",
+    "qid": "Q192313"
+  },
+  "pythagoras": {
+    "label": "Pythagoras",
+    "qid": "Q10261"
+  },
+  "quine": {
+    "label": "Willard Van Orman Quine",
+    "qid": "Q214969"
+  },
+  "radulphus-brito": {
+    "label": "Radulphus Brito",
+    "qid": "Q1222132"
+  },
+  "ramsey": {
+    "label": "Frank P. Ramsey",
+    "qid": "Q315387"
+  },
+  "ramus": {
+    "label": "Petrus Ramus",
+    "qid": "Q376124"
+  },
+  "rawls": {
+    "label": "John Rawls",
+    "qid": "Q172544"
+  },
+  "reichenbach": {
+    "label": "Hans Reichenbach",
+    "qid": "Q170147"
+  },
+  "reid": {
+    "label": "Thomas Reid",
+    "qid": "Q316347"
+  },
+  "reinach": {
+    "label": "Adolf Reinach",
+    "qid": "Q66061"
+  },
+  "richard-price": {
+    "label": "Richard Price",
+    "qid": "Q561101"
+  },
+  "ricoeur": {
+    "label": "Paul Ricœur",
+    "qid": "Q192066"
+  },
+  "robert-kilwardby": {
+    "label": "Robert Kilwardby",
+    "qid": "Q1364372"
+  },
+  "roger-bacon": {
+    "label": "Roger Bacon",
+    "qid": "Q171677"
+  },
+  "rorty": {
+    "label": "Richard Rorty",
+    "qid": "Q215258"
+  },
+  "rosenstock-huessy": {
+    "label": "Eugen Rosenstock-Huessy",
+    "qid": "Q66732"
+  },
+  "rosenzweig": {
+    "label": "Franz Rosenzweig",
+    "qid": "Q76710"
+  },
+  "rousseau": {
+    "label": "Jean-Jacques Rousseau",
+    "qid": "Q6527"
+  },
+  "royce": {
+    "label": "Josiah Royce",
+    "qid": "Q471260"
+  },
+  "russell": {
+    "label": "Bertrand Russell",
+    "qid": "Q33760"
+  },
+  "ryle": {
+    "label": "Gilbert Ryle",
+    "qid": "Q313386"
+  },
+  "saadya": {
+    "label": "Saadia Gaon",
+    "qid": "Q328748"
+  },
+  "saantarak-sita": {
+    "label": "Śāntarakṣita",
+    "qid": "Q553722"
+  },
+  "sakya-pandita": {
+    "label": "Sakya Pandita",
+    "qid": "Q982008"
+  },
+  "santayana": {
+    "label": "George Santayana",
+    "qid": "Q237833"
+  },
+  "sartre": {
+    "label": "Jean-Paul Sartre",
+    "qid": "Q9364"
+  },
+  "scheler": {
+    "label": "Max Scheler",
+    "qid": "Q76521"
+  },
+  "schelling": {
+    "label": "Friedrich Wilhelm Joseph Schelling",
+    "qid": "Q60070"
+  },
+  "schiller": {
+    "label": "Friedrich Schiller",
+    "qid": "Q22670"
+  },
+  "schlegel": {
+    "label": "Friedrich Schlegel",
+    "qid": "Q157271"
+  },
+  "schlegel-aw": {
+    "label": "August Wilhelm Schlegel",
+    "qid": "Q57281"
+  },
+  "schleiermacher": {
+    "label": "Friedrich Schleiermacher",
+    "qid": "Q76576"
+  },
+  "schlick": {
+    "label": "Moritz Schlick",
+    "qid": "Q57193"
+  },
+  "schmitt": {
+    "label": "Carl Schmitt",
+    "qid": "Q77148"
+  },
+  "scholem": {
+    "label": "Gershom Scholem",
+    "qid": "Q138850"
+  },
+  "scholz": {
+    "label": "Heinrich Scholz",
+    "qid": "Q104461"
+  },
+  "schopenhauer": {
+    "label": "Arthur Schopenhauer",
+    "qid": "Q38193"
+  },
+  "schutz": {
+    "label": "Alfred Schütz",
+    "qid": "Q94018"
+  },
+  "scottus-eriugena": {
+    "label": "Johannes Scotus Eriugena",
+    "qid": "Q184500"
+  },
+  "sellars": {
+    "label": "Wilfrid Sellars",
+    "qid": "Q712462"
+  },
+  "seneca": {
+    "label": "Seneca",
+    "qid": "Q2054"
+  },
+  "sextus-empiricus": {
+    "label": "Sextus Empiricus",
+    "qid": "Q236594"
+  },
+  "shaftesbury": {
+    "label": "Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",
+    "qid": "Q335112"
+  },
+  "shankara": {
+    "label": "Ādi Shankara",
+    "qid": "Q180967"
+  },
+  "shantideva": {
+    "label": "Shantideva",
+    "qid": "Q445460"
+  },
+  "sharpe": {
+    "label": "Johannes Sharpe",
+    "qid": "Q26213438"
+  },
+  "sidgwick": {
+    "label": "Henry Sidgwick",
+    "qid": "Q433076"
+  },
+  "sidney-hook": {
+    "label": "Sidney Hook",
+    "qid": "Q947456"
+  },
+  "simon-faversham": {
+    "label": "Simon of Faversham",
+    "qid": "Q7520146"
+  },
+  "simone-weil": {
+    "label": "Simone Weil",
+    "qid": "Q157309"
+  },
+  "simplicius": {
+    "label": "Simplicius of Cilicia",
+    "qid": "Q351518"
+  },
+  "socrates": {
+    "label": "Socrates",
+    "qid": "Q913"
+  },
+  "sophie-de-grouchy": {
+    "label": "Sophie de Condorcet",
+    "qid": "Q2641456"
+  },
+  "spencer": {
+    "label": "Herbert Spencer",
+    "qid": "Q144535"
+  },
+  "speusippus": {
+    "label": "Speusippus",
+    "qid": "Q325955"
+  },
+  "spinoza": {
+    "label": "Benedictus de Spinoza",
+    "qid": "Q35802"
+  },
+  "sriharsa": {
+    "label": "Sriharsha",
+    "qid": "Q4526632"
+  },
+  "stebbing": {
+    "label": "Susan Stebbing",
+    "qid": "Q2106841"
+  },
+  "stein": {
+    "label": "Edith Stein",
+    "qid": "Q76749"
+  },
+  "stevenson": {
+    "label": "Charles L. Stevenson",
+    "qid": "Q264334"
+  },
+  "strauss-leo": {
+    "label": "Leo Strauss",
+    "qid": "Q77144"
+  },
+  "strawson": {
+    "label": "P. F. Strawson",
+    "qid": "Q311760"
+  },
+  "stumpf": {
+    "label": "Carl Stumpf",
+    "qid": "Q57497"
+  },
+  "suarez": {
+    "label": "Francisco Suárez",
+    "qid": "Q316339"
+  },
+  "suhrawardi": {
+    "label": "Shihab al-Din Suhrawardi",
+    "qid": "Q282883"
+  },
+  "susman-margarete": {
+    "label": "Margarete Susman",
+    "qid": "Q214911"
+  },
+  "sylvan-routley": {
+    "label": "Richard Sylvan",
+    "qid": "Q7329328"
+  },
+  "syrianus": {
+    "label": "Syrianus",
+    "qid": "Q1373037"
+  },
+  "tarski": {
+    "label": "Alfred Tarski",
+    "qid": "Q207534"
+  },
+  "taurellus": {
+    "label": "Nicolaus Taurellus",
+    "qid": "Q324420"
+  },
+  "telesio": {
+    "label": "Bernardino Telesio",
+    "qid": "Q457986"
+  },
+  "theophrastus": {
+    "label": "Theophrastus",
+    "qid": "Q160362"
+  },
+  "thomas-kuhn": {
+    "label": "Thomas Kuhn",
+    "qid": "Q184980"
+  },
+  "thomas-more": {
+    "label": "Thomas More",
+    "qid": "Q42544"
+  },
+  "thoreau": {
+    "label": "Henry David Thoreau",
+    "qid": "Q131149"
+  },
+  "tibbon": {
+    "label": "Samuel ibn Tibbon",
+    "qid": "Q338123"
+  },
+  "timon-phlius": {
+    "label": "Timon of Phlius",
+    "qid": "Q280872"
+  },
+  "tsongkhapa": {
+    "label": "Tsongkhapa",
+    "qid": "Q323439"
+  },
+  "turing": {
+    "label": "Alan Turing",
+    "qid": "Q7251"
+  },
+  "twardowski": {
+    "label": "Kazimierz Twardowski",
+    "qid": "Q381994"
+  },
+  "umar-khayyam": {
+    "label": "Omar Khayyám",
+    "qid": "Q35900"
+  },
+  "vaihinger": {
+    "label": "Hans Vaihinger",
+    "qid": "Q76518"
+  },
+  "vasubandhu": {
+    "label": "Vasubandhu",
+    "qid": "Q316343"
+  },
+  "vico": {
+    "label": "Giambattista Vico",
+    "qid": "Q178709"
+  },
+  "vives": {
+    "label": "Juan Luis Vives",
+    "qid": "Q316357"
+  },
+  "voltaire": {
+    "label": "Voltaire",
+    "qid": "Q9068"
+  },
+  "walter-chatton": {
+    "label": "Walter Chatton",
+    "qid": "Q1373185"
+  },
+  "wang-yangming": {
+    "label": "Wang Yangming",
+    "qid": "Q378462"
+  },
+  "watsuji-tetsuro": {
+    "label": "Tetsuro Watsuji",
+    "qid": "Q969266"
+  },
+  "weber": {
+    "label": "Max Weber",
+    "qid": "Q9387"
+  },
+  "wesley-salmon": {
+    "label": "Wesley C. Salmon",
+    "qid": "Q327630"
+  },
+  "weyl": {
+    "label": "Hermann Weyl",
+    "qid": "Q71029"
+  },
+  "whewell": {
+    "label": "William Whewell",
+    "qid": "Q333922"
+  },
+  "whitehead": {
+    "label": "Alfred North Whitehead",
+    "qid": "Q183372"
+  },
+  "wilhelm-humboldt": {
+    "label": "Wilhelm von Humboldt",
+    "qid": "Q77888"
+  },
+  "wilhelm-windelband": {
+    "label": "Wilhelm Windelband",
+    "qid": "Q77045"
+  },
+  "wilhelm-wundt": {
+    "label": "Wilhelm Wundt",
+    "qid": "Q75814"
+  },
+  "william-auvergne": {
+    "label": "William of Auvergne",
+    "qid": "Q1347826"
+  },
+  "william-champeaux": {
+    "label": "William of Champeaux",
+    "qid": "Q267825"
+  },
+  "william-david-ross": {
+    "label": "William David Ross",
+    "qid": "Q1364954"
+  },
+  "william-jevons": {
+    "label": "William Stanley Jevons",
+    "qid": "Q312546"
+  },
+  "william-sherwood": {
+    "label": "William of Sherwood",
+    "qid": "Q325650"
+  },
+  "williams-bernard": {
+    "label": "Bernard Williams",
+    "qid": "Q345641"
+  },
+  "williams-dc": {
+    "label": "D. C. Williams",
+    "qid": "Q11855641"
+  },
+  "wilson": {
+    "label": "John Cook Wilson",
+    "qid": "Q3817476"
+  },
+  "wittgenstein": {
+    "label": "Ludwig Wittgenstein",
+    "qid": "Q9391"
+  },
+  "wodeham": {
+    "label": "Adam de Wodeham",
+    "qid": "Q4680059"
+  },
+  "wolff-christian": {
+    "label": "Christian Wolff",
+    "qid": "Q76510"
+  },
+  "wollstonecraft": {
+    "label": "Mary Wollstonecraft",
+    "qid": "Q101638"
+  },
+  "wright": {
+    "label": "Chauncey Wright",
+    "qid": "Q726365"
+  },
+  "wyclif": {
+    "label": "John Wycliffe",
+    "qid": "Q173893"
+  },
+  "xenocrates": {
+    "label": "Xenocrates",
+    "qid": "Q214121"
+  },
+  "xenophanes": {
+    "label": "Xenophanes",
+    "qid": "Q131671"
+  },
+  "xunzi": {
+    "label": "Xunzi",
+    "qid": "Q216072"
+  },
+  "yorck": {
+    "label": "Paul Yorck von Wartenburg",
+    "qid": "Q101587"
+  },
+  "zabarella": {
+    "label": "Jacopo Zabarella",
+    "qid": "Q627941"
+  },
+  "zeno-elea": {
+    "label": "Zeno of Elea",
+    "qid": "Q132157"
+  },
+  "zhu-xi": {
+    "label": "Zhu Xi",
+    "qid": "Q9397"
+  },
+  "zhuangzi": {
+    "label": "Zhuang Zhou",
+    "qid": "Q47739"
+  }
+}
