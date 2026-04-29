@@ -312,7 +312,10 @@ def fig5_all_works_top5():
     ]
 
     # Wider figure to give labels space; slight value-text padding to avoid overlap.
-    fig, axes = plt.subplots(2, 3, figsize=(16, 8.5))
+    # Extra height (8.5 → 9.6) reserves a clear blank row between subplots and the
+    # bottom-centered legend (Comment 2026-04-29: legend was visually overlapping
+    # with subplot x-axis labels).
+    fig, axes = plt.subplots(2, 3, figsize=(16, 9.6))
     axes = axes.flatten()
 
     for idx, (key, title) in enumerate(works):
@@ -342,9 +345,11 @@ def fig5_all_works_top5():
         Patch(facecolor=CAT_COLORS["phenomenology"], label="現象学"),
         Patch(facecolor=CAT_COLORS["other"], label="その他"),
     ]
-    fig.legend(handles=legend_items, loc="lower center", ncol=4, fontsize=9, bbox_to_anchor=(0.5, -0.01))
-    fig.suptitle("日本哲学6著作 × SEP哲学者459名：各著作の上位5名", fontsize=13, y=1.01)
-    fig.tight_layout()
+    fig.suptitle("日本哲学6著作 × SEP哲学者459名：各著作の上位5名", fontsize=13, y=0.995)
+    # tight_layout first, then reserve bottom space for the legend with clear gap
+    fig.tight_layout(rect=[0, 0.08, 1, 0.97])
+    fig.legend(handles=legend_items, loc="lower center", ncol=4, fontsize=9,
+               bbox_to_anchor=(0.5, 0.01))
     fig.savefig(OUT_DIR / "all_works_top5.pdf")
     print(f"  Saved all_works_top5.pdf")
     plt.close(fig)
