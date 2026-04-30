@@ -9,7 +9,7 @@ Reproduction package for:
 >
 > Submitted to *Japanese Journal of Digital Humanities* (JJDH), 2026.
 
-This repository contains the **reproduction package** — analysis code, input data, intermediate results, and final figures — for the above study, which compares 6 Japanese primary philosophical texts (Aozora Bunko) against 459 philosopher articles in the Stanford Encyclopedia of Philosophy (SEP) using a multilingual sentence-embedding model.
+This repository contains the **reproduction package** — analysis code, input data, intermediate results, and final figures — for the above study, which compares 6 Japanese primary philosophical texts (Aozora Bunko) against 458 SEP philosopher articles (after applying a 1,000-character minimum filter to the 459 entries originally identified via Wikidata) using a multilingual sentence-embedding model.
 
 ## Repository structure
 

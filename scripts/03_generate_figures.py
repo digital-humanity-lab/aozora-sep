@@ -1,21 +1,26 @@
 #!/usr/bin/env python3
 """
-Generate figures for paper_jjdh final (v6/final).
-Derived from paper/jjdh_v5/scripts/03_generate_figures.py.
+Generate figures for the aozora-sep reproduction package.
 
-Modifications applied (per 2026-04-29 reviewer comments):
-  - Comment #2 (Fig.2 = all_works_top5):
-      (a) Label overlap mitigated by enlarging left-margin / xlim
-      (b) Ryle: "Ryle (Gilbert Ryle)" → "ライル (Gilbert Ryle)" (Katakana)
-      (c) Subtitles use 「...」 instead of 『...』 for 絶対矛盾的自己同一 / 語られざる哲学
-      (d) Miki's three works ordered by publication year: 1919 → 1940 → 1941
-  - Comment #3 (Fig.3 = nishida_contrast):
-      Title in figure: 『絶対矛盾的自己同一』 → 「絶対矛盾的自己同一」
-  - Comment #5/#6/#7 (Fig.4/5/6):
-      (a) 「語られざる哲学」 year corrected: 1927 → 1919
-      (b) Miki's three works ordered by publication year (1919 → 1940 → 1941)
-      (c) Fig.5 (heatmap) Ryle → ライル
-Outputs PDFs to ./figures/ (relative to this script's directory).
+Modifications history:
+  2026-04-29 (reviewer comments):
+    - Fig.2 (all_works_top5): label overlap fix, Ryle→ライル,
+      『...』→「...」, Miki ordered by publication year
+    - Fig.3 (nishida_contrast): 『絶対矛盾的自己同一』→「…」
+    - Fig.4/5/6: 語られざる哲学 1927→1919, Miki order, Ryle→ライル
+    - Fig.2 legend gap: figsize 8.5→9.6, tight_layout(rect=...)
+
+  2026-04-30:
+    - Fig.1, Fig.2, Fig.4 titles: 459名 → 458名 (1 entry, Otto
+      Neurath, was excluded by the 1,000-character minimum filter,
+      so the actual analysis uses 458 SEP person articles).
+    - Fig.1 legend: removed legacy "対照群（v1）" entry. The
+      CTRL_SLUGS group (Kant / Mill / Dewey / Aristotle / Wittgenstein
+      / Confucius) was a v1-era analysis-design label not referenced
+      in the current paper text. Those slugs are now classified as
+      "other" (green).
+
+Outputs PDFs/PNGs to ./figures/ (relative to this script's directory).
 """
 
 import pandas as pd
@@ -140,7 +145,10 @@ CAT_COLORS = {
 
 PHENO_SLUGS = {"husserl", "heidegger", "gadamer", "merleau-ponty", "levinas",
                "derrida", "ricoeur", "sartre"}
-CTRL_SLUGS = {"kant", "mill", "dewey", "aristotle", "wittgenstein", "confucius"}
+# 2026-04-30: emptied — legacy "control" category was a v1 analysis-design
+# leftover, not referenced in the current paper. Kant/Mill/etc. now classified
+# as "other" (green) by get_category().
+CTRL_SLUGS: set[str] = set()
 INDIAN_SLUGS = {"nagarjuna", "shankara", "sriharsa", "gangesa", "kumaarila",
                 "saantarak-sita", "dharmakiirti", "jayaraasi", "kukai", "shantideva"}
 GERMAN_PSYCH_SLUGS = {"johann-herbart", "hermann-lotze", "wilhelm-wundt", "meinong"}
@@ -172,17 +180,16 @@ def fig1_nishida_zen_ranking():
     ax.set_yticklabels(labels, fontsize=9)
     ax.invert_yaxis()
     ax.set_xlabel("コサイン類似度")
-    ax.set_title("西田幾多郎『善の研究』× SEP哲学者459名（上位20名）")
+    ax.set_title("西田幾多郎『善の研究』× SEP哲学者458名（上位20名）")  # 459 → 458 (post-filter count)
     ax.set_xlim(0.7, 0.87)
     ax.axvline(0.038, color="green", linestyle=":", alpha=0.5, label="ランダムベースライン")
 
-    # Legend
+    # Legend (2026-04-30: removed legacy "対照群（v1）" entry; matches Fig.2/3/5 style)
     from matplotlib.patches import Patch
     legend_items = [
         Patch(facecolor=CAT_COLORS["german_psych"], label="19世紀独心理学"),
         Patch(facecolor=CAT_COLORS["indian"], label="インド哲学"),
         Patch(facecolor=CAT_COLORS["phenomenology"], label="現象学"),
-        Patch(facecolor=CAT_COLORS["control"], label="対照群（v1）"),
         Patch(facecolor=CAT_COLORS["other"], label="その他"),
     ]
     ax.legend(handles=legend_items, loc="lower right", fontsize=8)
@@ -278,7 +285,7 @@ def fig3_boxplot_works():
 
     ax.axhline(0.038, color="green", linestyle=":", alpha=0.5, label="ランダムベースライン")
     ax.set_ylabel("コサイン類似度")
-    ax.set_title("日本哲学6著作 × SEP哲学者459名の類似度分布")
+    ax.set_title("日本哲学6著作 × SEP哲学者458名の類似度分布")  # 459 → 458 (post-filter count)
     ax.legend(fontsize=8)
 
     fig.tight_layout()
@@ -345,7 +352,7 @@ def fig5_all_works_top5():
         Patch(facecolor=CAT_COLORS["phenomenology"], label="現象学"),
         Patch(facecolor=CAT_COLORS["other"], label="その他"),
     ]
-    fig.suptitle("日本哲学6著作 × SEP哲学者459名：各著作の上位5名", fontsize=13, y=0.995)
+    fig.suptitle("日本哲学6著作 × SEP哲学者458名：各著作の上位5名", fontsize=13, y=0.995)  # 459 → 458 (post-filter count)
     # tight_layout first, then reserve bottom space for the legend with clear gap
     fig.tight_layout(rect=[0, 0.08, 1, 0.97])
     fig.legend(handles=legend_items, loc="lower center", ncol=4, fontsize=9,
